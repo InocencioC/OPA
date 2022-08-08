@@ -20,7 +20,7 @@
 
       <div class="card-body">
         <h4>- LOGIN</h4>
-        <form action="" method="post">
+        <form action="../methods/login.php" method="post">
             <input class="input-form" type="email" name="email" placeholder="Email">
             <input class="input-form" type="password" name="password" placeholder="Senha">
 

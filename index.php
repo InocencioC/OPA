@@ -1,3 +1,11 @@
+<?php
+
+session_start();
+
+require_once('methods/verification.php');
+
+verification('pages/login.page.php')
+?>
 <!doctype html>
 <html lang="pt-br">
   <head>
